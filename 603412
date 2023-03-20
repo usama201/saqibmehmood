@@ -1,0 +1,2 @@
+from i_enc import menu
+menu()
